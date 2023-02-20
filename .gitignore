@@ -1,3 +1,5 @@
 /.vscode
-/main
-/main.cpp
+*main
+*main.cpp
+*inp.txt
+*out.txt
